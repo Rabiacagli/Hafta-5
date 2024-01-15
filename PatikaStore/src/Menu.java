@@ -8,7 +8,7 @@ public class Menu {
         System.out.println("Welcome to the Stock Management System");
 
         while(isRunning){
-            System.out.println("=======Control Panel=======");
+            System.out.println("======Control Panel======");
             System.out.println("1 - Show Brands");
             System.out.println("2 - Laptop Operations");
             System.out.println("3 - Phone Operations");
